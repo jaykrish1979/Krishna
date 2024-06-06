@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Diary</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 20px 0;
+            border-bottom: 1px solid #ddd;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #555;
+        }
+        .entry {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        .entry h2 {
+            margin-top: 0;
+            color: #333;
+        }
+        .entry p {
+            line-height: 1.6;
+        }
+        .entry img {
+            max-width: 100%;
+            border-radius: 5px;
+        }
+        footer {
+            text-align: center;
+            margin-top: 20px;
+            padding: 10px 0;
+            border-top: 1px solid #ddd;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Personal Diary</h1>
+    </header>
+
+    <div class="entry">
+        <h2>June 6, 2024</h2>
+        <p>Today, I felt a surge of emotions as I reflected on my journey so far. Life has been a mix of ups and downs, but I'm grateful for every moment. The love I have for my family and friends keeps me going.</p>
+        <img src="path_to_image1.jpg" alt="Image Description">
+    </div>
+
+    <div class="entry">
+        <h2>June 5, 2024</h2>
+        <p>Love is such a powerful emotion. It drives us to do amazing things and makes us feel alive. I spent the day reminiscing about beautiful memories and cherishing the love that surrounds me.</p>
+        <img src="path_to_image2.jpg" alt="Image Description">
+    </div>
+
+    <footer>
+        <p>&copy; 2024 My Personal Diary</p>
+    </footer>
+</body>
+</html>
