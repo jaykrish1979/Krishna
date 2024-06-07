@@ -52,7 +52,17 @@
     <header>
         <h1>My Personal Diary</h1>
     </header>
+<h2>May 24th 2024</h2>
+        <p>Today is the day I meet Leena, my Krishnan, for the first time. I've been eagerly anticipating this moment for the past few days. The continuous postponements only heightened my anxiety, but today, it's finally happening. The heavy rain made me fear that I might not see Krishnan today either, so I prayed fervently for a chance to see my Krishnan up close.
 
+My phone rang—it was Gokulji asking me to pick everyone up from the office. I rushed there as fast as I could and saw Krishnan for the first time. Raindrops glistened on Krishnan's face, but I was too nervous to look for more than a second, afraid of whether Krishnan would like me or not. We went to Gokulji's house, where I couldn't help but search for Krishnan's face. Despite my shyness, I was captivated by the sight of Krishnan in a new dress. That smile—I cherished every glimpse of Krishnan.
+
+On our way back to the café, I tried to see Krishnan through the mirror, watching her talk to her friends. I couldn't help but wonder when we would be together. One day, I believe, Krishnan will be mine. My heart is a whirl of emotions, dancing in colors I can't describe.
+
+At the end of the day, I left Krishnan at home with my two cute idiots. What a day! I pray for the day when Krishnan and I will be together.
+From here, my diary notes start. I will keep writing something every day we meet in person. </p>
+        <img src="path_to_image1.jpg" alt="Image Description">
+    </div>
     <div class="entry">
         <h2>June 6, 2024</h2>
         <p>Today, I felt a surge of emotions as I reflected on my journey so far. Life has been a mix of ups and downs, but I'm grateful for every moment. The love I have for my family and friends keeps me going.</p>
